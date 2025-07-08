@@ -1,4 +1,6 @@
-![](https://github.com/activelyexploding/activelyexploding/blob/main/twotime.gif)
+<p align="center">
+<img src="https://github.com/activelyexploding/activelyexploding/blob/main/twotime.gif" width="400" align="center" class="fr-fir fr-dii" height="400"></div>
+</p>
 
 <p align="center"> ' i want to be that soaring spirit , living with no regrets . ' </p>
 
