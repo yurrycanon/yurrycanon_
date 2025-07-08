@@ -4,4 +4,4 @@
 
 <p align="center"> ' i want to be that soaring spirit , living with no regrets . ' </p>
 
-<p align="center">✦ <a href="https://rentry.co/ghoztflag">rentry</a> - <a href="https://pronouns.cc/@.d3athscolour">prns</a> ✦</p>
+<p align="center">✦ <a href="https://rentry.co/ghoztflag">rentry</a> - <a href="https://pronouns.cc/@.d3athscolour">prns</a> - <a href="https://d3athscolour.atabook.org">atabook</a> ✦</p>
